@@ -1,4 +1,5 @@
-#Hi ! I am Sumit👋
+# Hi ! I am Sumit👋
+
 </br>
 I am currently a Bachelor's Student in Information Technology in Veer Surendra Sai University of Technology. I am passionate about **App** and **Web Development** and how these technologies are currently changing the world. I am currently learning **Data Science** along with **Full Stack App Development**.
 
