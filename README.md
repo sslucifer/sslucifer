@@ -8,4 +8,4 @@ I am looking out to collaborate with anyone on **App and Web Develoment** Projec
 
 You can reach me on : [LinkedIn](https://www.linkedin.com/in/sumit-sagar-l-55a5a0121/)
 
-When I am not Coding you can find me playing or watching all sorts of **Sports** or **Videos Games** or even watching Movies .
+When I am not Coding you can find me playing or watching all sorts of **Sports** or **Videos Games** or even watching Movies.
