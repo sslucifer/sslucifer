@@ -9,7 +9,7 @@ Languages I Know are : **C++** , **Python** , **Javascript** , **Java** , **C**
 
 Worked on Frameworks : **React Native**, **React JS**
 
-I am looking out to collaborate with anyone on **App and Web Develoment** Projects and also looking for some guidance in these too. I am open to working with any form of technology and learn more. I am a quick learner and a critical thinker too.
+I am looking out to collaborate with anyone on **App and Web Development** Projects and also looking for some guidance in these too. I am open to working with any form of technology and learn more. I am a quick learner and a critical thinker too.
 
 You can reach me on : [LinkedIn](https://www.linkedin.com/in/sumit-sagar-l-55a5a0121/)
 
