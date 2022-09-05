@@ -2,12 +2,12 @@
 
 </br>
 
-I am currently a Bachelor's Student in Information Technology in Veer Surendra Sai University of Technology. I am passionate about **App** and **Web Development** and how these technologies are currently changing the world. I am currently learning **Data Science** along with **Full Stack App Development**.
+I am currently working as a Full Stack Developer for IBM. I am passionate about **App** and **Web Development** and how these technologies are currently changing the world. I am currently learning **Data Science** along with **Full Stack App Development**.
 
 Languages I Know are : **C++** , **Python** , **Javascript** , **Java** , **C**
 </br>
 
-Worked on Frameworks : **React Native**, **React JS**
+Worked on Frameworks : **React**, **Angular**
 
 I am looking out to collaborate with anyone on **App and Web Development** Projects and also looking for some guidance in these too. I am open to working with any form of technology and learn more. I am a quick learner and a critical thinker too.
 
